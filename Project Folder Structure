@@ -1,0 +1,6 @@
+customer-purchase-prediction/
+│
+├── data.csv
+├── model.py
+├── requirements.txt
+└── README.md
